@@ -1,5 +1,11 @@
 # Tarea 01
 
+paquetería necesaria: PILLOW
+
+Instalación:
+
+- pip install Pillow
+
 Autómatas
 
 Se usa python como lenguaje de programación
